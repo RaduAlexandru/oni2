@@ -1184,7 +1184,7 @@
       "source": {
         "type": "install",
         "source": [
-          "github:esy-packages/esy-autoconf#ea58671a08c7ebf89b0cebd41f4950ca67157b01"
+          "github:RaduAlexandru/esy-autoconf#9b9e559a09a9d99609ed37c95108b941581fcf98"
         ]
       },
       "overrides": [],
